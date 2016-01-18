@@ -1,0 +1,4 @@
+[package]
+name = "arcade-rs"
+version = "0.1.0"
+authors = ["Daniel Wiberg <daniel.wiberg@dreambound.se>"]
